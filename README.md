@@ -24,3 +24,4 @@ Section 3 contains the results from the model that are needed to estimate the al
 
 Section 4 contains the table of transition probabilities based on the river network attributes (calculated in the sheet Network Geomorphology). 
 
+MATLAB code is included as wrapper to allow running of many scenarios for a given network automatically.  The code is included as both *.m and *.txt.  An example output that results from running the MATLAB code is also included. 
