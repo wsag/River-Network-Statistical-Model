@@ -1,7 +1,5 @@
 # River-Network-Statistical-Model
-Model code for Wollheim, W. M., Harms, T. K., Robison, A. L., Koenig, L. E., Helton, A. M., Song, C., et al. (2022). Superlinear scaling of riverine biogeochemical function with watershed size. Nature Communications, In Press.
-
-Model Description for Wollheim, W. M., Harms, T. K., Robison, A. L., Koenig, L. E., Helton, A. M., Song, C., et al. (2022). Superlinear scaling of riverine biogeochemical function with watershed size. Nature Communications, In Press. https://doi.org/10.21203/RS.3.RS-137235/V1
+Model code for Wollheim, W. M., Harms, T. K., Robison, A. L., Koenig, L. E., Helton, A. M., Song, C., Bowden, W.B., Finlay, J.C.  (2022). Superlinear scaling of riverine biogeochemical function with watershed size. Nature Communications, In Press. https://doi.org/10.21203/RS.3.RS-137235/V1
 
 For questions, please contact Wil Wollheim (wil.wollheim@unh.edu)
 
